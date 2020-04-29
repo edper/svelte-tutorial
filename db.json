@@ -40,6 +40,15 @@
       "cover": "",
       "about": "Man hunts whale with a vengeance. In the end, he's the last man stand. I guess he won.",
       "variation": 1
+    },
+    {
+      "title": "Sinners in the hands of Angry GOD",
+      "author": "Jonathan Edwards",
+      "cover": "https://m.media-amazon.com/images/I/51uHdTPTwTL.jpg",
+      "about": "Although this sermon was delivered to Edwards’s congregation in Northampton in June 1741, it is forever remembered for its effect on the congregation in the frontier town of Enfield, Connecticut, on Wednesday, 8 July 1741. An eyewitness described an audience so moved by the sermon that people moaned, shrieked, and cried out for salvation while the preacher was speaking. Apparently the reaction was so strong that Edwards was unable to finish the sermon, “possibly the only time such an interruption had happened to him except for the day several years earlier when the gallery of the old Northampton meetinghouse fell.”",
+      "variation": 1,
+      "favorite": true,
+      "id": 6
     }
   ]
 }

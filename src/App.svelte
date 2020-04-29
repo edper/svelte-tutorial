@@ -1,6 +1,7 @@
 <script>
   import {Route, Router} from "svelte-routing";
   import Library from "./library/Library.svelte";
+  import Create from "./create/Create.svelte";
   import Detail from "./detail/detail.svelte";
   export let url='';
 
@@ -14,6 +15,9 @@
 
 <Router {url}>
   <main>
+    <Route path="/create">
+      <Create />
+    </Route>
     <Route path="/books/:id" let:params>
       <Detail id={params.id}/>
     </Route>
